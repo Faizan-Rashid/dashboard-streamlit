@@ -2,11 +2,7 @@ import pandas as pd
 import streamlit as st
 
 import streamlit as st
-from PIL import Image
-import seaborn as sns
 import plotly.express as px
-import matplotlib.pyplot as plt
-import numpy as np
 
 st.set_page_config(
     page_title="Food Dataset dashboard",
